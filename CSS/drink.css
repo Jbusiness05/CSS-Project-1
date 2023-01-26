@@ -1,0 +1,71 @@
+.box1 {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+}
+body {
+    background: linear-gradient(to bottom, #000000, rgb(235, 5, 5));
+    text-align: center;
+}
+
+.GhostofSparta {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    width: 250px;
+    position: relative;
+}
+
+.Hermes {
+    background-color: rgb(235, 177, 5);
+    height: 40px;
+    width: 250px;
+    position: relative;
+    bottom: 40px;
+    left: 250px;
+}
+.Helios {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    width: 250px;
+    position: relative;
+    bottom: 120px;
+    left: 500px;
+}
+.Zeus {
+    background-color: rgb(235, 177, 5);
+    height: 40px;
+    width: 250px;
+    position: relative;
+    bottom: 80px;
+    left: 750px;
+}
+.GhostofSparta a {
+    color:rgb(221, 23, 33);
+    
+}
+.Zeus a {
+    color:rgb(221, 23, 33);
+    
+}
+.Helios a {
+    color:rgb(221, 23, 33);
+    
+}
+.Hermes a {
+    color:rgb(221, 23, 33);
+    
+}
+p {
+    text-align: center;
+    font-size: large;
+    color:tomato
+}
+ h1 {
+text-align: center;
+color: rgb(255, 183, 0);
+}
+ul {
+    color: rgb(255, 183, 0);
+}
